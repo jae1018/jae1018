@@ -1,4 +1,6 @@
-### Hi there 👋
+PhD Student in Physics at the University of New Hampshire, focusing on intersection of magnetospheric science and unsupervised learning
+
+[My CV](https://github.com/jae1018/jae1018.github.io/blob/main/CV_Edmond.pdf)
 
 <!--
 **jae1018/jae1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
