@@ -1,4 +1,14 @@
-PhD Student in Physics at the University of New Hampshire, focusing on intersection of magnetospheric science and unsupervised learning
+NRC Postdoctoral Research Associate at Air Force Research Laboratory, working at the intersection of space physics and machine learning.
+
+**Current Focus:** Semi-supervised learning, LLM-based agents for scientific workflows, and generative modeling for spacecraft data
+
+**Background:** Ph.D. in Space Plasma Physics, University of New Hampshire
+
+**ML/AI:** PyTorch, TensorFlow, scikit-learn, Hugging Face
+
+**LLM/Agents:** LangChain/LangGraph, CrewAI, FAISS, N8N
+
+**MLOps:** Docker, FastAPI, MLflow
 
 [My CV](https://github.com/jae1018/jae1018.github.io/blob/main/CV_Edmond.pdf)
 
